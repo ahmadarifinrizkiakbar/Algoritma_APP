@@ -1,3 +1,11 @@
-AlgoritmaAPP 
+AlgoritmaAPP
 
-BY Ahmad Arifin Rizki Akbar 
+  Tugas 4
+
+Mata Kuliah : Pemrograman Mobile
+
+Nama : Ahmad Arifin Rizki Akbar
+
+Nim : 200602098
+
+Kelas : TI-D
