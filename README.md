@@ -1,2 +1,3 @@
-"# Algoritma_APP" 
-"# Algoritma_APP" 
+AlgoritmaAPP 
+
+BY Ahmad Arifin Rizki Akbar 
